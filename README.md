@@ -5,7 +5,8 @@ Real-time Wikipedia edit stream processing system built in **Rust**, comparing t
 **Course:** CT078-3-3-RTS — Real Time Systems (APU)
 **Author:** Loh Ehung (TP079311)
 
-For the full documentation, please refer to 'Real Time Systems Proj.pdf'.
+For the full documentation, please refer to 'Real Time Systems Proj.pdf' 
+Or if you would like to watch the video demonstration, refer to 'async.mov' and 'threaded.mov'
 
 ---
 
